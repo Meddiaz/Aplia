@@ -12,4 +12,4 @@ Har ikke lagt noe som helst arbeid i CSS, kun lagd litt mer plass i skjemaene.
 Mathias Presthagen
 mathias.presthagen@gmail.com
 
-https://webkode.skit.no/~1404prma/aplia/
+https://webkode.skit.no/~1404prma/Aplia/ (dette prosjektet på egen server)
